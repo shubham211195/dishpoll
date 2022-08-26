@@ -1,3 +1,4 @@
+1.pls use check button for checking the username or password is correct then go  to login;
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
